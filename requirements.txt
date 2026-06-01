@@ -1,0 +1,11 @@
+pymupdf
+reportlab
+matplotlib
+seaborn
+pandas
+numpy
+Pillow
+requests
+arxiv
+openai
+anthropic
