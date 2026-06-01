@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Generated outputs (recreated by running the scripts)
+output/injected_pdfs/
+output/figures/
+output/results/results_template.csv
+output/results/summary_table.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
