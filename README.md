@@ -37,7 +37,7 @@ using steganographic text-layer techniques, and evaluates them against multiple 
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/roeisharon/week6_prompt_injection.git)
 cd week6_prompt_injection
 pip install -r requirements.txt
 ```
